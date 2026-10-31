@@ -1,4 +1,6 @@
 # Castle — Первый проект на формате JDMD
+<img width="962" height="596" alt="file" src="https://github.com/user-attachments/assets/091afea1-3b0f-4eb1-9913-28e2f27e588d" />
+
 
 **Castle** — это демонстрационная 3D-сцена, запущенная на Sony PlayStation Portable через кастомную JVM **jdJavaSE**. Это **первый проект**, который использует мой собственный бинарный формат ассетов **JDMD**, пришедший на смену парсингу стандартных `.obj` файлов.
 
